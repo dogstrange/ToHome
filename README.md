@@ -1,6 +1,9 @@
 Option 2: Create Data from API
 
 Running development project:  
+-mkdir test  
+-cd test  
+-git clone https://github.com/dogstrange/ToHome.git  
 -npm run dev  
 // nodemon is used for development to update the server when the progress is saved  
 
